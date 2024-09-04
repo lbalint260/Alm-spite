@@ -10,7 +10,8 @@ namespace Almáspite
     {
         Program()
             {
-             Console.WriteLine("Hello world")
+            Console.WriteLine("Hello world");
+            Console.ReadKey();
             }
         static void Main(string[] args)
         {
